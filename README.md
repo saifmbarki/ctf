@@ -1,5 +1,12 @@
 # ctf
 
+cat 
+vi :q!
+vi :wq!
+
+cp usr/bi/a b 
+
+
 sqlmap -u url --dbs
 
 
@@ -106,3 +113,7 @@ https://morsecode.world/international/translator.html
 
 
 ls -lh /usr/share/wordlists/
+
+
+
+https://www.kali.org/tools/wordlists/
