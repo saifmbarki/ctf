@@ -1,4 +1,6 @@
 # ctf
+snoopy
+
 
 locate filename
 
