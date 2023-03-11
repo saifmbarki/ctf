@@ -1,5 +1,16 @@
 # ctf
 
+
+
+
+whatweb ip
+joomscan
+wpsscan
+
+
+exploit Joomla! 3.7.0
+
+
 cat 
 vi :q!
 vi :wq!
