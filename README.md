@@ -77,6 +77,13 @@ nmap -sn --traceroute -->quiq traceroute
 nmap -sS -sU -T4 -A -v -PE -PP -PS80,443 -PA3389 -PU40125 -PY -g 53 --script "default or (discovery and safe)"   -->slow comprehensive scan
 
 
+
+BRUTFORCE 
+
+
+hydra -l root -p rockyou.txt -u  -s 22  192.168.160.181 ssh 
+
+
 cryptography
 
 https://gchq.github.io/CyberChef/
