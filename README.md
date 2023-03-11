@@ -99,3 +99,6 @@ https://gchq.github.io/CyberChef/
 
 
 http://www.jsfuck.com/#
+
+
+https://morsecode.world/international/translator.html
