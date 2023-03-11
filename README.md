@@ -36,3 +36,31 @@ https://resources.infosecinstitute.com/topic/important-sqlmap-commands/
 cp file newName ========= le nouveau local c'est ou tu est positionner 
 
 https://www.kali.org/tools/webshells/
+
+
+
+NMAP
+
+
+nmap -T4 -A -v 192.168.100.101   -->Intense scan
+
+
+nmap -sS -sU -T4 -A -v    -->Intense scan plus UDP
+
+
+nmap -T4 -A -v -Pn   --->Intense scan, no ping
+
+
+nmap -sn    ---> Ping scan
+
+
+nmap -T4 -F   -->quiq scan
+
+
+nmap -sV -T4 -O -F --version-light   --> quiq scan plus
+
+
+nmap -sn --traceroute -->quiq traceroute
+
+
+nmap -sS -sU -T4 -A -v -PE -PP -PS80,443 -PA3389 -PU40125 -PY -g 53 --script "default or (discovery and safe)"   -->slow comprehensive scan
