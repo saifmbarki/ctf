@@ -1,6 +1,10 @@
 # ctf
 
 
+file filename
+strings 
+binwolk filename
+
 
 
 whatweb ip
