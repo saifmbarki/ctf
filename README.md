@@ -43,7 +43,7 @@ https://resources.infosecinstitute.com/topic/important-sqlmap-commands/
 
 
 Crowler:
-sqlmap -u http://192.168.202.160/ –crawl=1
+sqlmap -u http://testphp.vulnweb.com/ -crawl=3
 
 
 cp file newName ========= le nouveau local c'est ou tu est positionner 
