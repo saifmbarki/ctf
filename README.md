@@ -95,6 +95,7 @@ https://github.com/jeanphorn/wordlist/blob/master/usernames.txt
 
 cryptography
 
+
 https://gchq.github.io/CyberChef/
 
 
@@ -102,3 +103,6 @@ http://www.jsfuck.com/#
 
 
 https://morsecode.world/international/translator.html
+
+
+ls -lh /usr/share/wordlists/
