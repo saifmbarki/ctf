@@ -1,5 +1,7 @@
 # ctf
 
+locate filename
+
 
 file filename
 strings 
