@@ -42,6 +42,9 @@ https://www.kali.org/tools/webshells/
 NMAP
 
 
+nmap -sV -O 192.168.100.101  ---> service version  - operating sys
+
+
 nmap -T4 -A -v 192.168.100.101   -->Intense scan
 
 
