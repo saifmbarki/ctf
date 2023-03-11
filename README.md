@@ -22,6 +22,9 @@ sqlmap -u http://site-to-test.com/admin/index.php –data=”user=admin&password
 –data = POST data
 
 
+sqlmap -r file.txt -p username
+
+
 dirb url
 
 netcat -lnvp 9191 
