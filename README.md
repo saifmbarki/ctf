@@ -1,5 +1,13 @@
 # ctf
 
+
+
+morse code from audio 
+
+
+https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+
+
 code injection
 
 "ls" && @.  change " by (`) altgr 7 
