@@ -1,5 +1,11 @@
 # ctf
 
+wht hash ---- hash analyser
+
+
+https://hashes.com/en/decrypt/hash
+
+
 
 classic cyfer
 
