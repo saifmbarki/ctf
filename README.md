@@ -2,6 +2,11 @@
 
 
 classic cyfer
+
+
+https://dencode.com/en/
+
+
 https://www.dcode.fr/monoalphabetic-substitution
 ********************
 
