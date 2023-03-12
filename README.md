@@ -1,5 +1,7 @@
 # ctf
 
+${system('ls')}
+
 
 run rpc/
 msfrpcd -P mypassword -U myuser -t Basic -n -p 55553
