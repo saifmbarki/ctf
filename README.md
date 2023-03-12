@@ -1,6 +1,10 @@
 # ctf
 
 
+classic cyfer
+https://www.dcode.fr/monoalphabetic-substitution
+********************
+
 
 morse code from audio 
 
