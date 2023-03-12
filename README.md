@@ -1,9 +1,12 @@
 # ctf
 
-
 code injection
 
-"ls" && @.  change " by (`)
+"ls" && @.  change " by (`) altgr 7 
+********
+burp 
+@.|ls||
+
 
 
 https://cybertalents.com/challenges/web/big-number?fbclid=IwAR14gKbg32A4IwFcdsxVer1DNVJq7o4gOgiVOTPOw08H0dGGfarteYCMmsI
