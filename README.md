@@ -1,5 +1,6 @@
 # ctf
 
+
 rapid7
 
 
@@ -18,9 +19,20 @@ snoopy
 locate filename
 
 
+
+image:
+
+
 file filename
+
+
 strings 
+
+
 binwolk filename
+
+
+
 
 
 
