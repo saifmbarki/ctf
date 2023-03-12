@@ -1,4 +1,12 @@
 # ctf
+
+
+run rpc/
+msfrpcd -P mypassword -U myuser -t Basic -n -p 55553
+
+then run armitage/
+armitage
+
 snoopy
 
 
