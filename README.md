@@ -3,7 +3,7 @@
 
 code injection
 
-`ls` && @.
+"ls" && @.  change " by (`)
 
 
 https://cybertalents.com/challenges/web/big-number?fbclid=IwAR14gKbg32A4IwFcdsxVer1DNVJq7o4gOgiVOTPOw08H0dGGfarteYCMmsI
