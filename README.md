@@ -1,5 +1,8 @@
 # ctf
 
+
+wireshark ====== ip.src==192.168.171.129   ------ ip.dst==== tcp.port===
+
 wht hash ---- hash analyser
 
 
