@@ -1,6 +1,10 @@
 # ctf
 
 
+
+sqlmap -u url --dbs --dump    //that's all
+
+
 wireshark ====== ip.src==192.168.171.129   ------ ip.dst==== tcp.port===
 
 wht hash ---- hash analyser
