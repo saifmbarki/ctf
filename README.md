@@ -2,7 +2,7 @@
 
 
 
-sqlmap -u url --dbs --dump    //that's all
+sqlmap -u url --dbs --dump   
 
 
 wireshark ====== ip.src==192.168.171.129   ------ ip.dst==== tcp.port===
